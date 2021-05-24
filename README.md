@@ -7,6 +7,6 @@ This is the bill of material(BOM) of gamedo. usage:
 <dependency>
     <groupId>org.gamedo</groupId>
     <artifactId>gamedo-pom</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
