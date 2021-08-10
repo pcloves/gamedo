@@ -6,12 +6,12 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.5.0</version>
+        <version>2.5.3</version>
     </parent>
 
     <groupId>org.gamedo</groupId>
     <artifactId>gamedo-pom</artifactId>
-    <version>1.0.1</version>
+    <version>2.5.3</version>
     <name>gamedo BOM</name>
     <packaging>pom</packaging>
     <description>gamedo framework (Bill of Materials)</description>
